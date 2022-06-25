@@ -19,7 +19,9 @@ https://www.cnblogs.com/xgqfrms/p/16084639.html
 
 https://www.cnblogs.com/xgqfrms/p/12901143.html
 
+## TypeScript Version
 
+https://github.com/learning-js-by-reading-source-codes/design-patterns-typescript
 
 ## refs
 
