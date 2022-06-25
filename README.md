@@ -19,3 +19,12 @@ https://www.cnblogs.com/xgqfrms/p/16084639.html
 
 https://www.cnblogs.com/xgqfrms/p/12901143.html
 
+
+
+## refs
+
+> Design Patterns 
+
+https://github.com/xgqfrms/learning/issues/127
+
+https://refactoring.guru/design-patterns
